@@ -1,0 +1,32 @@
+.smain{
+    width: 60vw;
+    height: 85vh;
+    box-shadow: 0 0 5px 2px rgb(199, 199, 199);
+    margin-left: 20vw;
+    padding-left: 3vw;
+    margin-top: -5vh;
+    border-radius: 1vw;
+    position: relative;
+}
+.mb{
+      margin-top: -50vh;
+}
+#sbtn{
+    margin-left: 5vw;
+}
+#spic{
+    position: absolute;
+    width: 30vw;
+    height: 50vh;
+    top: 27vh;
+    left: 27vw;
+    border-radius: 15%;
+}
+#sin{
+    position: absolute;
+    left: 55vw;
+    top: 20vh;
+    font-weight: 700;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(92, 92, 92);
+}

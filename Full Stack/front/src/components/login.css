@@ -1,0 +1,40 @@
+.main{
+  width: 60vw;
+  height: 70vh;
+  box-shadow: 0 0 5px 2px rgb(199, 199, 199);
+  margin-left: 20vw;
+  margin-top: 10vh;
+  padding: 3vw;
+  border-radius: 1vw;
+  position: relative;
+}
+
+.mb-3{
+    width: 20vw;
+    margin-top: 5vh;
+}
+#lbtn{
+margin-left: 5vw;
+margin-top: 2vh;
+width: 8vw;
+}
+#lh3{
+position: absolute;
+left: 45vw;
+top: 25vh;
+}
+#limg{
+    position: absolute;
+    width: 25vw;
+    height: 45vh;
+    top: 37vh;
+    left: 50vw;
+    border-radius: 15%;
+}
+#lfot{
+    position: absolute;
+    bottom: 0;
+    left: 40vw;
+    font-weight: 700;
+    color: rgb(87, 87, 87);
+}
